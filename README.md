@@ -1,7 +1,7 @@
 ### Hey! :raising_hand_man:
 
-- 🔭 I’m currently working on DevOps, Infrastructure, Automation.
-- 📫 How to reach me: jmom.it@gmail.com
+- 🔭 I’m currently working in SRE, DevSecOps, Infrastructure, Automation.
+- 📫 Any inquiries: jmom.it@gmail.com
 
 <!--
 **johnny-mom/johnny-mom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
